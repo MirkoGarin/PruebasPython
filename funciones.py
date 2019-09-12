@@ -6,7 +6,7 @@
  #main()
 
 def saludo():
-    print ("Bienvenido") 
+    print ("Bienvenido")
 
 def despedida():
     print("Bye")
